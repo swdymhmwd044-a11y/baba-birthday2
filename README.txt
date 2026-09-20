@@ -1,0 +1,1 @@
+افتح index.html. استبدل الصور داخل images بأسماء photo1.jpg إلى photo4.jpg. ولو تاريخ الميلاد مختلف عدّل CORRECT_BIRTH_DATE داخل script.js بصيغة YYYY-MM-DD.
